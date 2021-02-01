@@ -1,0 +1,11 @@
+{
+    "author": "Jake Levy",
+    "name": "censorify",
+    "version": "0.1.1",
+    "description": "our first NPM module",
+    "main": "censortext",
+    "dependencies": {},
+    "engines": {
+	"node": "*"
+    }
+}
